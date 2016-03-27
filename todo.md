@@ -1,2 +1,2 @@
-- [ ] Update json resume
-- [ ] Get HTTPS cert for koddsson.com
+- [x] Update json resume
+- [x] Get HTTPS cert for koddsson.com
