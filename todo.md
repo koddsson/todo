@@ -1,0 +1,2 @@
+- [] Update json resume
+- [] Get HTTPS cert for koddsson.com
