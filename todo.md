@@ -2,3 +2,4 @@
 - [x] Test newline fix in todo-cli
 - [ ] Fix the mark todo feature
 - [ ] Fix the mark todo feature
+- [ ] Fix the mark todo feature
