@@ -2,5 +2,5 @@
 - [x] Get HTTPS cert for koddsson.com
 - [x] Add a 'Add item' to todo-cli
 - [ ] Add a 'mark complete' feature to todo-cli
-- [ ] Fix newline issue in todo-cli
-- [ ] Test newline fix in todo-cli
+- [x] Fix newline issue in todo-cli
+- [x] Test newline fix in todo-cli
