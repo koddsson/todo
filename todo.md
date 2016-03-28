@@ -4,3 +4,4 @@
 - [ ] Add a 'mark complete' feature to todo-cli
 - [x] Fix newline issue in todo-cli
 - [x] Test newline fix in todo-cli
+- [ ] Test newline fix in todo-cli
