@@ -1,4 +1,4 @@
 - [ ] Add a 'mark complete' feature to todo-cli
+- [ ] Fix the mark todo feature
 - [x] Fix the mark todo feature
-- [ ] Fix the mark todo feature
-- [ ] Fix the mark todo feature
+- [x] Fix the mark todo feature
