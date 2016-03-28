@@ -1,2 +1,3 @@
 - [ ] document todo-cli
 - [ ] fix commit messages for various operations
+- [ ] publish on npm?
