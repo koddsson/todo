@@ -1,5 +1,5 @@
-- [x] document todo-cli
 - [ ] fix commit messages for various operations
 - [ ] publish on npm?
 - [ ] buy pepper
-- [ ] Implement a CLI arguments parsing lib
+- [x] Implement a CLI arguments parsing lib
+- [x] document todo-cli
