@@ -4,3 +4,4 @@
 - [x] Implement a CLI arguments parsing lib
 - [x] document todo-cli
 - [ ] Create a similar utility for daily notes?
+- [ ] Make this tool asyncronous somehow?
