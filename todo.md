@@ -5,3 +5,4 @@
 - [x] document todo-cli
 - [ ] Create a similar utility for daily notes?
 - [ ] Make this tool asyncronous somehow?
+- [ ] Order koddsson hoodies
