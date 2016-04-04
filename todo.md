@@ -6,3 +6,4 @@
 - [ ] Create a similar utility for daily notes?
 - [ ] Make this tool asyncronous somehow?
 - [ ] Order koddsson hoodies
+- [ ] Show arnar the todo-cli
