@@ -1,9 +1,9 @@
 - [ ] fix commit messages for various operations
 - [ ] publish on npm?
 - [ ] buy pepper
-- [x] Implement a CLI arguments parsing lib
-- [x] document todo-cli
 - [ ] Create a similar utility for daily notes?
 - [ ] Make this tool asyncronous somehow?
 - [ ] Order koddsson hoodies
-- [ ] Show arnar the todo-cli
+- [x] Show arnar the todo-cli
+- [x] Implement a CLI arguments parsing lib
+- [x] document todo-cli
