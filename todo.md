@@ -7,3 +7,4 @@
 - [x] Show arnar the todo-cli
 - [x] Implement a CLI arguments parsing lib
 - [x] document todo-cli
+- [ ] Rename header in rewards from 'Achievements' to 'Rewards'
