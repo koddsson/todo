@@ -8,3 +8,4 @@
 - [x] Show arnar the todo-cli
 - [x] Implement a CLI arguments parsing lib
 - [x] document todo-cli
+- [ ] Rework this app into a rest api
