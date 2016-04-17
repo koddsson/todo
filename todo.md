@@ -3,7 +3,7 @@
 - [ ] Create a similar utility for daily notes?
 - [ ] Make this tool asyncronous somehow?
 - [ ] Order koddsson hoodies
-- [ ] Rename header in rewards from 'Achievements' to 'Rewards'
+- [x] Rename header in rewards from 'Achievements' to 'Rewards'
 - [x] Rework this app into a rest api
 - [x] buy pepper
 - [x] Show arnar the todo-cli
