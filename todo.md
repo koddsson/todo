@@ -1,12 +1,12 @@
 - [ ] fix commit messages for various operations
 - [ ] publish on npm?
-- [x] Create a similar utility for daily notes?
 - [ ] Make this tool asyncronous somehow?
 - [ ] Order koddsson hoodies
+- [x] Test that everything works with new commit messages
+- [x] Create a similar utility for daily notes?
 - [x] Rename header in rewards from 'Achievements' to 'Rewards'
 - [x] Rework this app into a rest api
 - [x] buy pepper
 - [x] Show arnar the todo-cli
 - [x] Implement a CLI arguments parsing lib
 - [x] document todo-cli
-- [ ] Test that everything works with new commit messages
