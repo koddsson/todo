@@ -1,6 +1,6 @@
 - [ ] fix commit messages for various operations
 - [ ] publish on npm?
-- [ ] Create a similar utility for daily notes?
+- [x] Create a similar utility for daily notes?
 - [ ] Make this tool asyncronous somehow?
 - [ ] Order koddsson hoodies
 - [x] Rename header in rewards from 'Achievements' to 'Rewards'
