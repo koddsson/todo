@@ -1,4 +1,4 @@
-- [ ] fix commit messages for various operations
+- [x] fix commit messages for various operations
 - [ ] publish on npm?
 - [ ] Make this tool asyncronous somehow?
 - [x] Order koddsson hoodies
