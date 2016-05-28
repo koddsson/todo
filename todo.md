@@ -11,3 +11,4 @@
 - [x] Show arnar the todo-cli
 - [x] Implement a CLI arguments parsing lib
 - [x] document todo-cli
+- [ ] Buy muddler
