@@ -1,7 +1,7 @@
 - [ ] fix commit messages for various operations
 - [ ] publish on npm?
 - [ ] Make this tool asyncronous somehow?
-- [ ] Order koddsson hoodies
+- [x] Order koddsson hoodies
 - [x] Get a haircut tomorrow
 - [x] Test that everything works with new commit messages
 - [x] Create a similar utility for daily notes?
