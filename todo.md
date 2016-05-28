@@ -2,6 +2,7 @@
 - [ ] publish on npm?
 - [ ] Make this tool asyncronous somehow?
 - [ ] Order koddsson hoodies
+- [x] Get a haircut tomorrow
 - [x] Test that everything works with new commit messages
 - [x] Create a similar utility for daily notes?
 - [x] Rename header in rewards from 'Achievements' to 'Rewards'
@@ -10,4 +11,3 @@
 - [x] Show arnar the todo-cli
 - [x] Implement a CLI arguments parsing lib
 - [x] document todo-cli
-- [ ] Get a haircut tomorrow
